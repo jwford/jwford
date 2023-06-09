@@ -1,10 +1,5 @@
 ### Hello! 👋
 
-My name is Jonathan Ford (he/him), and I'm from New Jersey, USA. You might know me from [Steve](https://github.com/tuataria/steve), a Discord bot I created originally for the [Tuataria](https://tuataria.com) server. I'm currently working as a Software Engineer Apprentice at Google.
+My name is Jonathan Ford (he/him) and I'm a front-end engineer from New Jersey. I love to think deeply about people, and love to combine that with my passion for code. I have several years of experience as a freelance developer and a Software Engineer Apprentice at Google, and I'm currently looking to bring my talents and passion for delighting users to the table in a UX engineering role. Find me on [LinkedIn](https://linkedin.com/in/jwford65)!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwford&count_private=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwford&theme=dark" />
-</a>
+On the open-source side of things, I spent several years developing an open-source Discord bot named [Steve](https://github.com/stevebot-project/steve). He's a multi-purpose bot that I orginally developed for a single server, but later refactored to be able to be used in any server.
